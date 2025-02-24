@@ -1,0 +1,4 @@
+Own IP: "127.0.0.1"
+Own port: "4333"
+Reducer IP: "127.0.0.1"
+Reducer port: "4323"
