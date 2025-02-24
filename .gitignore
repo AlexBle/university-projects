@@ -1,0 +1,10 @@
+# Ignore .class files
+*.class
+
+# Ignore IDE folders
+.idea/
+.vscode/
+.vs/
+
+# Ignore log files
+*.log
