@@ -1,0 +1,24 @@
+COMPANY_LIST
+{
+	COMPANY
+	{
+		NAME "Foreas A"
+		AFM AFM Forea A
+	}
+	COMPANY
+	{
+		NAME "Foreas B"
+		AFM AFM Forea B
+	}
+	COMPANY
+	{
+		NAME "Foreas C"
+		AFM AFM Forea C
+	}
+	COMPANY
+	{	
+		NAME "Foreas D"
+		AFM AFM Forea D
+		
+	}
+}
